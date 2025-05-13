@@ -1,0 +1,10 @@
+.color-box {
+            width: 100px;
+            height: 100px;
+            display: inline-block;
+            margin: 10px;
+        }
+
+mark {
+  background-color: white;
+}
