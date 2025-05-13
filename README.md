@@ -3,6 +3,9 @@
 A simple Flask web application that lets users upload an image and returns the **top 10 most common colors** in that image using KMeans clustering.
 
 ---
+![img.png](img.png)
+
+---
 
 ## 📸 Features
 
